@@ -41,3 +41,4 @@ Commit 39 on 2024-11-13T14:16:17: test: Add integration tests for the API endpoi
 Commit 40 on 2026-03-09T17:07:38: chore: Update build scripts
 Commit 41 on 2025-10-30T09:23:13: feat: Add support for a new data format
 Commit 42 on 2026-01-13T10:13:44: docs: Update README with new instructions
+Commit 43 on 2025-02-13T12:43:00: docs: Clarify API usage in the documentation
