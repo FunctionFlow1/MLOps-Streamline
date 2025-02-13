@@ -150,3 +150,4 @@ Commit 148 on 2025-01-14T11:36:49: docs: Add more examples to the documentation
 Commit 149 on 2025-09-15T15:36:33: feat: Add support for a new data format
 Commit 150 on 2025-04-09T10:35:06: refactor: Improve performance of algorithm
 Commit 151 on 2025-03-11T15:32:59: feat: Add support for a new data format
+Commit 152 on 2025-02-13T17:48:13: docs: Update README with new instructions
