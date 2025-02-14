@@ -10,3 +10,4 @@ Commit 8 on 2025-12-11T13:21:03: docs: Update README with new instructions
 Commit 9 on 2024-11-12T09:23:08: docs: Add more examples to the documentation
 Commit 10 on 2025-06-04T16:38:14: style: Apply black formatting to the codebase
 Commit 11 on 2025-02-18T11:44:48: test: Increase test coverage for critical modules
+Commit 12 on 2025-02-14T14:25:29: test: Increase test coverage for critical modules
