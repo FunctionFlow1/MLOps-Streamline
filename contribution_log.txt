@@ -214,3 +214,4 @@ Commit 212 on 2025-10-23T11:38:00: fix: Handle edge cases in input validation
 Commit 213 on 2024-12-18T15:27:58: style: Remove unused imports and variables
 Commit 214 on 2026-01-02T12:02:50: refactor: Simplify complex conditional logic
 Commit 215 on 2025-10-17T12:02:16: chore: Update build scripts
+Commit 216 on 2025-04-02T14:38:53: docs: Update README with new instructions
