@@ -102,3 +102,4 @@ Commit 100 on 2025-05-27T09:14:53: docs: Clarify API usage in the documentation
 Commit 101 on 2025-05-22T09:27:47: chore: Update dependencies and configuration
 Commit 102 on 2025-05-13T13:36:53: docs: Add more examples to the documentation
 Commit 103 on 2025-09-02T13:27:15: docs: Update README with new instructions
+Commit 104 on 2025-05-23T14:20:23: style: Refactor code for better readability
