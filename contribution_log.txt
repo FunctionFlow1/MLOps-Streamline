@@ -181,3 +181,4 @@ Commit 179 on 2024-11-20T10:58:05: refactor: Simplify complex conditional logic
 Commit 180 on 2025-08-27T16:15:05: chore: Update dependencies and configuration
 Commit 181 on 2025-07-01T16:19:07: style: Apply black formatting to the codebase
 Commit 182 on 2025-08-18T12:47:22: style: Remove unused imports and variables
+Commit 183 on 2025-06-04T16:51:34: refactor: Simplify complex conditional logic
