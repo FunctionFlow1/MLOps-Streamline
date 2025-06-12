@@ -247,3 +247,4 @@ Commit 245 on 2025-10-01T14:51:13: feat: Implement new feature for core module
 Commit 246 on 2025-03-24T16:25:05: style: Refactor code for better readability
 Commit 247 on 2025-09-19T17:56:18: fix: Correct bug in data processing pipeline
 Commit 248 on 2025-09-12T17:03:52: feat: Implement user authentication
+Commit 249 on 2025-06-12T09:06:45: docs: Clarify API usage in the documentation
