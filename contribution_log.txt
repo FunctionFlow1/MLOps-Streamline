@@ -115,3 +115,4 @@ Commit 113 on 2025-01-16T13:28:41: feat: Implement user authentication
 Commit 114 on 2026-02-19T14:57:22: docs: Clarify API usage in the documentation
 Commit 115 on 2025-04-18T14:21:39: refactor: Optimize query performance
 Commit 116 on 2025-05-22T10:02:19: fix: Correct bug in data processing pipeline
+Commit 117 on 2025-10-22T15:17:37: test: Add integration tests for the API endpoints
