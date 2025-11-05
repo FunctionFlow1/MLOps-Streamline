@@ -274,3 +274,4 @@ Commit 272 on 2024-11-18T11:51:27: feat: Add support for a new data format
 Commit 273 on 2026-02-20T16:46:07: chore: Update build scripts
 Commit 274 on 2025-01-22T17:20:39: test: Add unit tests for new functionality
 Commit 275 on 2025-03-19T09:03:49: docs: Update README with new instructions
+Commit 276 on 2025-11-05T09:20:50: test: Add integration tests for the API endpoints
