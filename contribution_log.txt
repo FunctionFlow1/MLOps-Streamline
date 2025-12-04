@@ -190,3 +190,4 @@ Commit 188 on 2025-04-11T14:18:22: test: Add integration tests for the API endpo
 Commit 189 on 2025-02-18T10:03:20: style: Remove unused imports and variables
 Commit 190 on 2025-06-30T17:45:36: chore: Update build scripts
 Commit 191 on 2025-07-21T10:02:13: style: Refactor code for better readability
+Commit 192 on 2025-12-04T16:35:46: feat: Add support for a new data format
