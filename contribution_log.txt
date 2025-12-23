@@ -237,3 +237,4 @@ Commit 235 on 2025-03-20T17:22:43: test: Add integration tests for the API endpo
 Commit 236 on 2026-01-27T13:36:33: feat: Implement new feature for core module
 Commit 237 on 2025-06-05T09:22:16: refactor: Optimize query performance
 Commit 238 on 2025-03-10T09:52:57: test: Add integration tests for the API endpoints
+Commit 239 on 2025-12-23T09:03:10: docs: Update README with new instructions
