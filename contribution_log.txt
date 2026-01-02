@@ -128,3 +128,4 @@ Commit 126 on 2026-02-11T13:39:14: feat: Add support for a new data format
 Commit 127 on 2025-12-03T13:44:15: docs: Update README with new instructions
 Commit 128 on 2024-12-24T13:09:39: chore: Update dependencies and configuration
 Commit 129 on 2025-01-17T16:20:02: docs: Add more examples to the documentation
+Commit 130 on 2026-01-02T12:17:14: docs: Update README with new instructions
